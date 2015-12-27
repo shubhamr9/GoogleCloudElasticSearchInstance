@@ -1,7 +1,7 @@
 # GoogleCloudElasticSearchInstance
 First of all - Why am I even uploading this? 
 
-Because it is ambiguos for many people like me to adhere to minor issues that is their because of incomplete doc online. 
+Because it is ambiguos for many people like me to adhere to minor issues that is there because of incomplete doc online. 
 
 Complete deployment in steps
 
